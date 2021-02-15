@@ -1,0 +1,65 @@
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.exe.config
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.exe
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.pdb
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.xml
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\MetroFramework.dll
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Microsoft.Exchange.WebServices.dll
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\W3Common.dll
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.vbprojResolveAssemblyReference.cache
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar_Emails.Form1.resources
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar_Emails.Resources.resources
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.vbproj.GenerateResource.Cache
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.exe
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.xml
+c:\users\tharso.curia\documents\visual studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.pdb
+C:\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Ionic.Zip.dll
+C:\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.exe.manifest
+C:\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.application
+C:\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.exe.manifest
+C:\Users\tharso.curia\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.application
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar_Emails.Form1.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar_Emails.Resources.resources
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.vbproj.GenerateResource.Cache
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.xml
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.exe.config
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.pdb
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.xml
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Ionic.Zip.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\MetroFramework.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\W3Common.dll
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.pdb
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.vbprojResolveAssemblyReference.cache
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.exe.manifest
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.application
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.TrustInfo.xml
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.exe.manifest
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.application
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.exe.config
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.exe
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.xml
+C:\Users\tharso.curia.BEPO\Documents\Visual Studio 2015\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.pdb
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.exe.config
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.exe.manifest
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.application
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.exe
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.pdb
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\bin\Debug\Salvar Emails.xml
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\bin\Debug\Ionic.Zip.dll
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\bin\Debug\MetroFramework.dll
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\bin\Debug\W3Common.dll
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.vbprojAssemblyReference.cache
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar_Emails.Form1.resources
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar_Emails.Resources.resources
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.vbproj.GenerateResource.cache
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.vbproj.CoreCompileInputs.cache
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.TrustInfo.xml
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.exe.manifest
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.application
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.vbproj.CopyComplete
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.exe
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.xml
+C:\Users\tharso.curia\Documents\Projects\Projetos Pequenos\Salvar Emails\Salvar Emails\obj\Debug\Salvar Emails.pdb
